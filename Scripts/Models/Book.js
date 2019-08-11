@@ -1,5 +1,6 @@
 class Book
 {
+    
     constructor()
     {
         this.Title = "";
@@ -7,4 +8,5 @@ class Book
         this.Age = "";
         this.Isbn = "";
     }
+    
 }
