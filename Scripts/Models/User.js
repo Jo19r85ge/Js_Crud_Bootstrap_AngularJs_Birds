@@ -1,5 +1,6 @@
 class User
 {
+    
     constructor()
     {
         this.Name = "";
@@ -7,4 +8,5 @@ class User
         this.Car = "";
         this.Email = "";
     }
+    
 }
