@@ -1,5 +1,6 @@
 class Room
 {
+    
     constructor()
     {
         this.Code = "";
@@ -7,4 +8,5 @@ class Room
         this.Adapt = "";
         this.Project = "";
     }
+    
 }
